@@ -1,0 +1,5 @@
+matplotlib==3.6.0
+numpy==1.23.3
+pandas==1.5.0
+scikit_posthocs==0.7.0
+scipy==1.9.1
